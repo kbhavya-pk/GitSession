@@ -5,8 +5,8 @@ public class Sample {
 	public static void main(String[] args) {
 		System.out.println("Bhavya");
 		System.out.println("Raghavi");
-		System.out.println("K");
-		System.out.println("Karunakaran");
+		System.out.println("Subash");
+		System.out.println("Subash");
 	}
 
 }
